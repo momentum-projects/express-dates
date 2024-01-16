@@ -1,6 +1,6 @@
 # Express API: Dates and Times 📆
 
-For this project, you will build a small API that returns data about dates. This will require you to work with Date objects in JavaScript and with the date formatting library [Day.js](https://day.js.org/).
+For this project, you will build a small API that returns data about dates. Familiarity working with dates, `Date` objects in JavaScript, and with date formatting librarys like [Day.js](https://day.js.org/) is essential for a developer.
 
 ## Getting Started
 
